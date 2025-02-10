@@ -71,7 +71,7 @@ app.MapGet("/weatherforecast", (ILogger<Program> logger) =>
 
    ```bash
    git clone https://github.com/fkucukkara/highPerformanceLogging.git
-   cd high-performance-logging
+   cd src/API
    ```
 
 2. Build and run the application:
